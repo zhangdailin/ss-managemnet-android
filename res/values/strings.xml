@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">呆哥科技</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="regist">注册</string>
+    <string name="login">登录</string>
+    <string name="serverip">服务器IP</string>
+    <string name="serverport">服务器端口</string>
+    <string name="method">加密方式</string>
+    <string name="protocol">协议</string>
+    <string name="protocol_param">协议参数</string>
+    <string name="obfs">混淆</string>
+    <string name="obfs_param">混淆参数</string>
+    <string name="prevButton">上一个</string>
+    <string name="nextButton">下一个</string>
+    <string name="list">SSR 协议和混淆设置</string>
+    <string name="daigenetwork">呆哥科技</string>
+    <string name="managercenter">SS管理中心</string>
+</resources>
